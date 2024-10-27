@@ -1,0 +1,16 @@
+{
+  "name": "Noite das Massinhas",
+  "short_name": "Massinhas",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fef4c7",
+  "theme_color": "#6fa3ef",
+  "description": "Aplicativo divertido para uma noite de massinhas para crianças!",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ]
+}
